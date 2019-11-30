@@ -93,10 +93,6 @@ int main()
 		displayPlatformInfo(platform);
 	}
 
-	std::vector< cl::Device> devices;
-	/*platfrom.getDevices(CL_DEVICE_TYPE_ALL, &devices);*/
-
 	system("pause");
-
 
 }
