@@ -1,0 +1,35 @@
+﻿  Preprocessing: device.cl
+  Using build options:  -I "C:\Users\User\source\repos\SearchOpenCLPlatform\SearchOpenCLPlatform"
+  Setting target instruction set architecture to: Default (Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2))
+  Platform name: Intel(R) OpenCL
+  Device name: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+  Device version: OpenCL 2.1 (Build 611)
+  Device vendor: Intel(R) Corporation
+  Device profile: FULL_PROFILE
+  Compilation started
+  Compilation done
+  Linking started
+  Linking done
+  Device build started
+  Device build done
+  Done.
+  Failed to get kernel names for work group info
+  Build succeeded!
+  
+  host.cpp
+c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.hpp(4645): warning C4996: 'clCreateSampler': 宣告為已被取代
+  c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.h(1435): note: 請參閱 'clCreateSampler' 的宣告
+c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.hpp(5505): warning C4996: 'clCreateCommandQueue': 宣告為已被取代
+  c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.h(1428): note: 請參閱 'clCreateCommandQueue' 的宣告
+c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.hpp(5536): warning C4996: 'clCreateCommandQueue': 宣告為已被取代
+  c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.h(1428): note: 請參閱 'clCreateCommandQueue' 的宣告
+c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.hpp(5553): warning C4996: 'clCreateCommandQueue': 宣告為已被取代
+  c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.h(1428): note: 請參閱 'clCreateCommandQueue' 的宣告
+c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.hpp(6357): warning C4996: 'clEnqueueTask': 宣告為已被取代
+  c:\program files (x86)\intelswtools\opencl\sdk\include\cl\cl.h(1442): note: 請參閱 'clEnqueueTask' 的宣告
+c:\users\user\source\repos\searchopenclplatform\searchopenclplatform\host.cpp(45): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\searchopenclplatform\searchopenclplatform\host.cpp(89): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\searchopenclplatform\searchopenclplatform\host.cpp(78): warning C4102: 'std': 未參考的標籤
+  SearchOpenCLPlatform.vcxproj -> C:\Users\User\source\repos\SearchOpenCLPlatform\Debug\SearchOpenCLPlatform.exe
+  device.cl
+  複製了         1 個檔案。
