@@ -1,6 +1,6 @@
 # OpenCL-Programming
 
-## Environment:
+## Hardware:
 * Intel i5-7300HQ (UHD630)
 * NVIDIA GTX 1050
 ## Source Code
