@@ -1,0 +1,23 @@
+Using build options:  -I "C:\Users\User\source\repos\HellowordOpenCL\HellowordOpenCL"
+Setting target instruction set architecture to: Default (Intel(R) Advanced Vector Extensions 2 (Intel(R) AVX2))
+Platform name: Intel(R) OpenCL
+Device name: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+Device version: OpenCL 2.1 (Build 611)
+Device vendor: Intel(R) Corporation
+Device profile: FULL_PROFILE
+Compilation started
+Compilation done
+Linking started
+Linking done
+Device build started
+Device build done
+Kernel <HelloWorld> was successfully vectorized (8)
+Done.
+HelloWorld info:
+	Maximum work-group size: 8192
+	Compiler work-group size: (0, 0, 0)
+	Local memory size: 0
+	Preferred multiple of work-group size: 128
+	Minimum amount of private memory: 0
+
+Build succeeded!
